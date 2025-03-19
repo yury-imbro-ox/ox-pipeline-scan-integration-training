@@ -1,0 +1,24 @@
+{
+  "name": "ox-pipeline-scan-integration-training",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yury-imbro-ox/ox-pipeline-scan-integration-training.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yury-imbro-ox/ox-pipeline-scan-integration-training/issues"
+  },
+  "homepage": "https://github.com/yury-imbro-ox/ox-pipeline-scan-integration-training#readme",
+  "dependencies": {
+    "axios": "^1.5.0",
+    "mongoose": "^7.3.1"
+  }
+}
